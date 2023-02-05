@@ -11,29 +11,29 @@ const Project = () => {
         <ProjectCard
           img={img1}
           link={{
-            live: "https://astounding-tarsier-7d19cc.netlify.app/index.html",
-            source: "view-source:https://astounding-tarsier-7d19cc.netlify.app",
+            live: "#",
+            source: "#",
           }}
         ></ProjectCard>
         <ProjectCard
           img={img2}
           link={{
-            live: "https://astounding-tarsier-7d19cc.netlify.app/loanexpress",
-            source: "https://astounding-tarsier-7d19cc.netlify.app ",
+            live: "#",
+            source: "#",
           }}
         ></ProjectCard>
         <ProjectCard
           img={img3}
           link={{
-            live: "https://astounding-tarsier-7d19cc.netlify.app/codecademy.html",
-            source: "https://astounding-tarsier-7d19cc.netlify.app ",
+            live: "#",
+            source: "#",
           }}
         ></ProjectCard>
         <ProjectCard
           img={img4}
           link={{
-            live: "https://astounding-tarsier-7d19cc.netlify.app/meta.html",
-            source: "https://astounding-tarsier-7d19cc.netlify.app ",
+            live: "#",
+            source: "# ",
           }}
   
         ></ProjectCard>
