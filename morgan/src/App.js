@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Footer from "./components/Footer";
+
 import Header from "./components/Header";
 import About from "./routes/About";
 import Home from "./routes/Home";
@@ -20,7 +20,7 @@ const App = () => {
       {currentPage === "home" && <Home />}
       {currentPage === "about" && <About />}
       {currentPage === "project" && <Project />}
-      <Footer />
+      
     </div>
   );
 };
